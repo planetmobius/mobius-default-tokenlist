@@ -1,10 +1,10 @@
 {
   "name": "Core Tokens",
-  "timestamp": "2024-12-19T06:00:00Z",
+  "timestamp": "2024-12-24T14:00:00Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://mobiusdex.xyz/logo.png",
@@ -28,11 +28,19 @@
     },
     {
       "name": "Bridged USDC",
-      "symbol": "USDC",
+      "symbol": "USDC.e",
       "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
       "chainId": 146,
       "decimals": 6,
       "logoURI": "https://sonicscan.org/token/images/usdc_32.png"
+    },
+    {
+      "name": "Wrapped Ether on Sonic",
+      "symbol": "WETH",
+      "address": "0x309C92261178fA0CF748A855e90Ae73FDb79EBc7",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://sonicscan.org/token/images/wethgno_32.png"
     }
   ]
 }
