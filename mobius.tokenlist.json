@@ -1,10 +1,10 @@
 {
   "name": "Core Tokens",
-  "timestamp": "2024-12-24T15:00:00Z",
+  "timestamp": "2024-12-25T15:45:00Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://mobiusdex.xyz/logo.png",
@@ -37,7 +37,7 @@
     {
       "name": "Wrapped Ether on Sonic",
       "symbol": "WETH",
-      "address": "0x309C92261178fA0CF748A855e90Ae73FDb79EBc7",
+      "address": "0x50c42dEAcD8Fc9773493ED674b675bE577f2634b",
       "chainId": 146,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/planetmobius/mobius-default-tokenlist/refs/heads/main/assets/sonic/weth_32px.png"
